@@ -1,3 +1,4 @@
 kiwin867.github.io
 byte 0: now_you_know_how_to_change_directories
 byte 1: in_every_job_that_must_be_done_there_is_an_element_of_fun
+byte 2: grep_is_your_friend
